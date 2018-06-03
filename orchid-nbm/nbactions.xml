@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-sign_nbm</actionName>
+            <displayName>sign_nbm</displayName>
+            <goals>
+                <goal>clean</goal>
+                <goal>package</goal>
+                <goal>-Dkeystorepass=password</goal>
+                <goal>-Dkeystore=E:\Develop\Security\KeyStore_01.jks</goal>
+                
+                
+            </goals>
+        </action>
+    </actions>

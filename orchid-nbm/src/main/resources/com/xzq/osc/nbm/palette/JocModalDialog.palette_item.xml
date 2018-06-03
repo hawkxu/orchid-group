@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette_item version="1.0">
+  <component classname="com.xzq.osc.JocModalDialog"/>
+  <description localizing-bundle="com.xzq.osc.nbm.Bundle"
+               display-name-key="NAME_JocModalDialog"
+               tooltip-key="HINT_JocModalDialog" />
+  <icon16 urlvalue="nbres:/com/xzq/osc/img/jocmodaldialog16.png" />
+  <classpath>
+    <resource type="library" name="OrchidLibrary"/>
+  </classpath>
+</palette_item>

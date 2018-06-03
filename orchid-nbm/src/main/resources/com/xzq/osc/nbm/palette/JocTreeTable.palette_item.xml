@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette_item version="1.0">
+  <component classname="com.xzq.osc.JocTreeTable"/>
+  <description localizing-bundle="com.xzq.osc.nbm.Bundle"
+               display-name-key="NAME_JocTreeTable"
+               tooltip-key="HINT_JocTreeTable" />
+  <icon16 urlvalue="nbres:/com/xzq/osc/img/joctreetable16.png" />
+  <classpath>
+    <resource type="library" name="OrchidLibrary"/>
+  </classpath>
+</palette_item>

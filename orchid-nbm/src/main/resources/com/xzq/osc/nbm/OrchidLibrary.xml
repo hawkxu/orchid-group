@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library PUBLIC "-//NetBeans//DTD Library Declaration 1.0//EN" "http://www.netbeans.org/dtds/library-declaration-1_0.dtd">
+<library version="1.0">
+    <name>OrchidLibrary</name>
+    <type>j2se</type>
+    <localizing-bundle>com.xzq.osc.nbm.Bundle</localizing-bundle>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:nbinst://com.xzq.osc.nbm/modules/ext/orchid-2.2.3.jar!/</resource>
+        <resource>jar:nbinst://com.xzq.osc.nbm/modules/ext/orchid-beaninfo-2.2.3.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+        <resource>jar:nbinst://com.xzq.osc.nbm/modules/ext/orchid-2.2.3-sources.jar!/</resource>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+        <resource>jar:nbinst://com.xzq.osc.nbm/modules/ext/orchid-2.2.3-javadoc.jar!/</resource>
+    </volume>
+</library>

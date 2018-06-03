@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.xzq.osc.nbm/2
+OpenIDE-Module-Implementation-Version: 20180323
+OpenIDE-Module-Install: com/xzq/osc/nbm/Installer.class
+OpenIDE-Module-Layer: com/xzq/osc/nbm/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/xzq/osc/nbm/Bundle.properties

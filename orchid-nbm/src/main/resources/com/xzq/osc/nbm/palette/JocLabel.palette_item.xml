@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette_item version="1.0">
+  <component classname="com.xzq.osc.JocLabel"/>
+  <description localizing-bundle="com.xzq.osc.nbm.Bundle"
+               display-name-key="NAME_JocLabel"
+               tooltip-key="HINT_JocLabel" />
+  <icon16 urlvalue="nbres:/com/xzq/osc/img/joclabel16.png" />
+  <classpath>
+    <resource type="library" name="OrchidLibrary"/>
+  </classpath>
+</palette_item>

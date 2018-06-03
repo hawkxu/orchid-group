@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+  <folder name="org-netbeans-api-project-libraries">
+    <folder name="Libraries">
+      <file name="OrchidLibrary.xml" url="OrchidLibrary.xml"/>
+    </folder>
+  </folder>
+  <folder name="FormDesignerPalette">
+    <folder name="OrchidComponents">
+      <attr name="displayName" bundlevalue="com.xzq.osc.nbm.Bundle#FormDesignerPalette/OrchidComponents"/>
+      <file name="JocAction.palette_item" url="palette/JocAction.palette_item.xml"/>
+      <file name="JocBusyIcon.palette_item" url="palette/JocBusyIcon.palette_item.xml"/>
+      <file name="JocCheckedList.palette_item" url="palette/JocCheckedList.palette_item.xml"/>
+      <file name="JocCheckedTree.palette_item" url="palette/JocCheckedTree.palette_item.xml"/>
+      <file name="JocCoverPane.palette_item" url="palette/JocCoverPane.palette_item.xml"/>
+      <file name="JocDropButton.palette_item" url="palette/JocDropButton.palette_item.xml"/>
+      <file name="JocErrorPane.palette_item" url="palette/JocErrorPane.palette_item.xml"/>
+      <file name="JocFolderChooser.palette_item" url="palette/JocFolderChooser.palette_item.xml"/>
+      <file name="JocGregCalendarPane.palette_item" url="palette/JocGregCalendarPane.palette_item.xml"/>
+      <file name="JocGridLayout.palette_item" url="palette/JocGridLayout.palette_item.xml"/>
+      <file name="JocGroupBorder.palette_item" url="palette/JocGroupBorder.palette_item.xml"/>
+      <file name="JocGroupPane.palette_item" url="palette/JocGroupPane.palette_item.xml"/>
+      <file name="JocHyperlink.palette_item" url="palette/JocHyperlink.palette_item.xml"/>
+      <file name="JocHyperlinkAction.palette_item" url="palette/JocHyperlinkAction.palette_item.xml"/>
+      <file name="JocInputMask.palette_item" url="palette/JocInputMask.palette_item.xml"/>
+      <file name="JocLabel.palette_item" url="palette/JocLabel.palette_item.xml"/>
+      <file name="JocLabelEditor.palette_item" url="palette/JocLabelEditor.palette_item.xml"/>
+      <file name="JocMessageLabel.palette_item" url="palette/JocMessageLabel.palette_item.xml"/>
+      <file name="JocModalDialog.palette_item" url="palette/JocModalDialog.palette_item.xml"/>
+      <file name="JocPaneGroup.palette_item" url="palette/JocPaneGroup.palette_item.xml"/>
+      <file name="JocPrintPreview.palette_item" url="palette/JocPrintPreview.palette_item.xml"/>
+      <file name="JocRangeField.palette_item" url="palette/JocRangeField.palette_item.xml"/>
+      <file name="JocSummaryTable.palette_item" url="palette/JocSummaryTable.palette_item.xml"/>
+      <file name="JocTabbedPane.palette_item" url="palette/JocTabbedPane.palette_item.xml"/>
+      <file name="JocTable.palette_item" url="palette/JocTable.palette_item.xml"/>
+      <file name="JocTableCellEditor.palette_item" url="palette/JocTableCellEditor.palette_item.xml"/>
+      <file name="JocTableCellRenderer.palette_item" url="palette/JocTableCellRenderer.palette_item.xml"/>
+      <file name="JocTrayIcon.palette_item" url="palette/JocTrayIcon.palette_item.xml"/>
+      <file name="JocTreeTable.palette_item" url="palette/JocTreeTable.palette_item.xml"/>
+      <file name="JocValueField.palette_item" url="palette/JocValueField.palette_item.xml"/>
+    </folder>
+  </folder>
+  <folder name="org-netbeans-modules-form">
+    <folder name="classloader">
+      <folder name="system">
+        <file name="OrchidClasses" url="OrchidClasses.txt"/>
+      </folder>
+    </folder>
+  </folder>
+</filesystem>

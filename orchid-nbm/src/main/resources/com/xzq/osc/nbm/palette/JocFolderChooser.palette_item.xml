@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette_item version="1.0">
+  <component classname="com.xzq.osc.JocFolderChooser"/>
+  <description localizing-bundle="com.xzq.osc.nbm.Bundle"
+               display-name-key="NAME_JocFolderChooser"
+               tooltip-key="HINT_JocFolderChooser" />
+  <icon16 urlvalue="nbres:/com/xzq/osc/img/jocfolderchooser16.png" />
+  <classpath>
+    <resource type="library" name="OrchidLibrary"/>
+  </classpath>
+</palette_item>

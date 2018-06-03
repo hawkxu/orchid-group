@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette_item version="1.0">
+  <component classname="com.xzq.osc.JocRangeField"/>
+  <description localizing-bundle="com.xzq.osc.nbm.Bundle"
+               display-name-key="NAME_JocRangeField"
+               tooltip-key="HINT_JocRangeField" />
+  <icon16 urlvalue="nbres:/com/xzq/osc/img/jocrangefield16.png" />
+  <classpath>
+    <resource type="library" name="OrchidLibrary"/>
+  </classpath>
+</palette_item>

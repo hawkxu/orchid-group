@@ -1,0 +1,1 @@
+mvn clean package nbm:nbm -Dkeystorepass=yourpassword -Dkeystore=/path/to/the/keystore.file
